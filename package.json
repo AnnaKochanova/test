@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "training\r my fisrs training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKochanova/test.git"
+  },
+  "author": "AnnA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaKochanova/test/issues"
+  },
+  "homepage": "https://github.com/AnnaKochanova/test#readme",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
